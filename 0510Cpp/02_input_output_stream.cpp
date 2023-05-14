@@ -25,7 +25,7 @@ int main()
 	// «ÿ¡¶
 
 	bool isTrue = true;
-	bool isFalse = true;
+	bool isFalse = false;
 
 	std::cout << isTrue << std::endl;
 	std::cout << isFalse << std::endl;
